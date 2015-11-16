@@ -1,0 +1,77 @@
+*
+{
+  margin:0px;
+  padding: opx;
+}
+#header
+{
+    position: absolute;    
+    height: 780px;
+    width: 780px;
+    left: 230px;
+    top: -100px;
+    -webkit-animation: fadein 1s;
+}
+#links
+{
+    position: absolute;
+    left: 400px;
+    top: -40px;
+    -webkit-animation: fadein 1s;
+}
+#kvinna1
+{
+    position: absolute;    
+    height: 500px;
+    width: 500px;
+    left: 355px;
+    top: 30px;
+    -webkit-animation: fadein 1s;
+}
+#kvinna2
+{
+    position: absolute;    
+    height: 500px;
+    width: 500px;
+    left: 355px;
+    top: 30px;
+    -webkit-animation: fadein 1s;
+}
+#aboutUs
+{
+    height: 150px;
+    width: 150px;
+}
+#projects
+{
+    height: 150px;
+    width: 150px;
+}
+#contactUs
+{
+    height: 150px;
+    width: 150px;
+}
+#textAboutUs
+{
+    position: absolute;
+    left: 440px;
+    width: 400px;
+    height: 400px;
+        -webkit-animation: fadein 1s;
+}
+#back
+{
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: -40px;
+    -webkit-animation: fadein 1s;
+}
+@-webkit-keyframes fadein 
+{
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+
